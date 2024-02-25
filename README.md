@@ -3,9 +3,10 @@
 This microservice makes a call to the Petfinder API and returns pet information in the form of JSON.
 
 ## Prerequisites
-
-- Python 3.x
-- Flask
+- Python: Version 3.x (recommended 3.7 or later) 
+- Flask: A micro web framework written in Python. Flask can be installed via pip, Python's package installer.
+- Requests Library: A Python HTTP library, used for making API calls. Also installable via pip.
+- Petfinder API Key and Secret: You must have a registered Petfinder account to obtain an API key and secret necessary for making authenticated requests to the Petfinder API.
 
 ## Using the Microservice
 
