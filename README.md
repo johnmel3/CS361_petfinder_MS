@@ -107,5 +107,10 @@ Below is an example of what this looks like.
       "videos": []
     }
 
+
+# UML Diagram
+
+![image](https://github.com/johnmel3/CS361_petfinder_MS/assets/122661573/f8a139af-39e4-485a-9cf1-4ef71f7397ff)
+
 ```
 
