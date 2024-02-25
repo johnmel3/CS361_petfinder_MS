@@ -112,5 +112,6 @@ Below is an example of what this looks like.
 
 
 # UML Diagram
+![mermaid-diagram-2024-02-25-105310](https://github.com/johnmel3/CS361_petfinder_MS/assets/122661573/d702412d-0dc3-4273-b991-2e121549fc9e)
 
-![mermaid-diagram-2024-02-25-102413](https://github.com/johnmel3/CS361_petfinder_MS/assets/122661573/a92ab98a-d3c0-4be8-88d9-d859e678632b)
+
